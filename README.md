@@ -10,9 +10,6 @@ Este proyecto es una aplicación de escritorio desarrollada en **Java** que impl
 ## Modelado de Autómatas
 El diseño lógico detrás de las expresiones regulares utilizadas fue estructurado mediante autómatas visuales:
 
-*Puedes incluir aquí una de las imágenes que tienes en tu carpeta usando Markdown:*
-![Autómata de Validación](imagenes_automata/tu_imagen_aqui.png)
-
 ## Tecnologías Utilizadas
 * **Lenguaje:** Java 
 * **Interfaz Gráfica:** Java Swing / AWT
